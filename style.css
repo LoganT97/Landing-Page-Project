@@ -172,7 +172,7 @@ h2 {
     justify-content: center;
     background-color: #3882f6;
     width: 900px;
-    height: 50px;
+    height: auto;
     border-radius: 8px;
     padding: 80px;
     color: #e5e7eb;
@@ -189,7 +189,7 @@ h2 {
 .bottombutton {
     border: 3px solid;
     border-color: #e5e7eb;
-    margin-right: 50px;
+    margin-right: 0px;
     font-weight: 600;
 }
 .footer {
